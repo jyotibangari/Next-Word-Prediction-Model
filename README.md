@@ -1,2 +1,3 @@
-author -: jyoti bangari
+
 # Next word prediction model
+author -: Jyoti Bangari
